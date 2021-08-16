@@ -1,0 +1,5 @@
+SWORD, 10.0, 100.0, +10 attack,120
+SHIELD, 5.0, 50.0, +15 defense,120
+ARMOR, 5.0, 25.0, + 10 defense,180
+BOW, 8.0, 80.0, +8 attack + 5 range,3000
+DRAGON EGG, 50.0, 1000.0, <^- ^>,3000
